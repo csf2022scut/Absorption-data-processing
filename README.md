@@ -1,8 +1,8 @@
 # <span style="color: rgb(31, 35, 40)"><span style="background-color: rgb(255, 255, 255)">Absorption-data-processing</span></span>
 
-**用途：**处理吸收数据
+用途：处理吸收数据
 
-**效果：**批量去除数据上方的大量文字并添加合适的长名称与单位，便于一键导入处理绘图
+效果：批量去除数据上方的大量文字并添加合适的长名称与单位，便于一键导入处理绘图
 
 ![\<img alt="" data-attachment-key="IYRHVRA2" width="1399" height="843" src="attachments/IYRHVRA2.png" ztype="zimage">](attachments/IYRHVRA2.png)
 
