@@ -13,7 +13,7 @@ from os import makedirs
 
 # GUI界面
 window = Tk()
-window.title('文本处理')
+window.title('吸收数据处理')
 window.geometry('600x200')
 
 input_folder = StringVar()
